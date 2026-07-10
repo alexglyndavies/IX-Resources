@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+  <title id="title">Book Club</title>
+  <rect width="800" height="450" fill="#e8f1f8"/>
+  <path d="M400 130c-65-55-155-65-245-35v245c90-30 180-20 245 35z"
+        fill="#fff" stroke="#003e74" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M400 130c65-55 155-65 245-35v245c-90-30-180-20-245 35z"
+        fill="#fff" stroke="#003e74" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M400 130v245"
+        fill="none" stroke="#003e74" stroke-width="12"/>
+  <path d="M205 155c50-10 100-3 145 20M205 215c50-10 100-3 145 20M205 275c50-10 100-3 145 20"
+        fill="none" stroke="#00a6d6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M450 175c45-23 95-30 145-20M450 235c45-23 95-30 145-20M450 295c45-23 95-30 145-20"
+        fill="none" stroke="#00a6d6" stroke-width="14" stroke-linecap="round"/>
+</svg>

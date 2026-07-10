@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+  <title id="title">Talks</title>
+  <rect width="800" height="450" fill="#e8f1f8"/>
+  <rect x="110" y="70" width="580" height="310" rx="24" fill="#fff" stroke="#003e74" stroke-width="12"/>
+  <circle cx="300" cy="190" r="50" fill="#00a6d6"/>
+  <path d="M215 320c8-72 44-108 85-108s77 36 85 108" fill="#00a6d6"/>
+  <path d="M450 145h150M450 200h120M450 255h150M450 310h95"
+        fill="none" stroke="#003e74" stroke-width="18" stroke-linecap="round"/>
+  <rect x="270" y="370" width="260" height="24" rx="12" fill="#003e74"/>
+</svg>

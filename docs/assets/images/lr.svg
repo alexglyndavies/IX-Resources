@@ -1,0 +1,95 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 800 450"
+  role="img"
+  aria-labelledby="title"
+>
+  <title id="title">Learning Resources</title>
+
+  <rect width="800" height="450" fill="#e8f1f8"/>
+
+  <!-- Browser window -->
+  <rect
+    x="90"
+    y="55"
+    width="620"
+    height="340"
+    rx="24"
+    fill="#ffffff"
+    stroke="#003e74"
+    stroke-width="12"
+  />
+
+  <!-- Browser toolbar -->
+  <path
+    d="M96 115h608"
+    fill="none"
+    stroke="#003e74"
+    stroke-width="12"
+  />
+
+  <circle cx="130" cy="85" r="10" fill="#ef5350"/>
+  <circle cx="165" cy="85" r="10" fill="#f9bf3b"/>
+  <circle cx="200" cy="85" r="10" fill="#35b779"/>
+
+  <!-- Book -->
+  <path
+    d="M175 165c65-20 125-10 175 30v135c-50-40-110-50-175-30z"
+    fill="#e8f1f8"
+    stroke="#003e74"
+    stroke-width="10"
+    stroke-linejoin="round"
+  />
+
+  <path
+    d="M350 195c50-40 110-50 175-30v135c-65-20-125-10-175 30z"
+    fill="#e8f1f8"
+    stroke="#003e74"
+    stroke-width="10"
+    stroke-linejoin="round"
+  />
+
+  <path
+    d="M350 195v135"
+    fill="none"
+    stroke="#003e74"
+    stroke-width="10"
+  />
+
+  <!-- Book text -->
+  <path
+    d="M210 210c35-5 70 0 105 18
+       M210 250c35-5 70 0 105 18"
+    fill="none"
+    stroke="#00a6d6"
+    stroke-width="12"
+    stroke-linecap="round"
+  />
+
+  <path
+    d="M385 228c35-18 70-23 105-18
+       M385 268c35-18 70-23 105-18"
+    fill="none"
+    stroke="#00a6d6"
+    stroke-width="12"
+    stroke-linecap="round"
+  />
+
+  <!-- External resource/link symbol -->
+  <circle
+    cx="590"
+    cy="245"
+    r="62"
+    fill="#00a6d6"
+  />
+
+  <path
+    d="M565 270l55-55
+       M580 215h40v40"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="14"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>

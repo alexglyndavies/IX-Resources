@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+.cache/mkdocs-jupyter
+
+# Environment variables
+.env
+
+# Editor files
+.vscode/
+.idea/
+.zed/
+
+# Local event metadata
+**/event.yml
+**/event.yaml
+
+code/
+posters/
+!docs/assets/posters/
+*Zone.Identifier

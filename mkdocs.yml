@@ -1,0 +1,59 @@
+site_name: I-X AI in Science Resources
+site_description: Learning resources, talks and tutorials from I-X
+site_url: https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/
+
+repo_url: https://github.com/alexglyndavies/IX-Resources
+repo_name: alexglyndavies/IX-Resources
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+
+  - Learning Resources:
+      - Overview: learning-resources/index.md
+      - AI in Science: learning-resources/ai-in-science.md
+      - I-X Resources: learning-resources/ix-resources.md
+
+  - Sessions:
+      - Overview: sessions/index.md
+      - Programming Club: sessions/programming-club/index.md
+      - Technical Tutorials: sessions/technical-tutorials/index.md
+      - Book Club: sessions/book-club/index.md
+      - List of Talks: sessions/talks/index.md
+
+  - Breaking Topics in AI Conference:
+      - Overview: breaking-topics/index.md
+
+  - HPC Resources:
+    - Overview: hpc/index.md
+    - I-X GPU Guide: hpc/ix-gpu.md
+    - Imperial HPC: hpc/imperial-hpc.md
+
+plugins:
+  - search
+  - mkdocs-jupyter:
+      include:
+        - "**/*.ipynb"
+      execute: false
+      include_source: true
+      ignore_h1_titles: false
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - md_in_html

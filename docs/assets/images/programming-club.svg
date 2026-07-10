@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+  <title id="title">Programming Club</title>
+  <rect width="800" height="450" fill="#e8f1f8"/>
+  <rect x="90" y="55" width="620" height="340" rx="24" fill="#003e74"/>
+  <rect x="115" y="95" width="570" height="270" rx="10" fill="#fff"/>
+  <circle cx="135" cy="75" r="10" fill="#ef5350"/>
+  <circle cx="170" cy="75" r="10" fill="#f9bf3b"/>
+  <circle cx="205" cy="75" r="10" fill="#35b779"/>
+  <path d="M260 170l-75 55 75 55M540 170l75 55-75 55"
+        fill="none" stroke="#00a6d6" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M455 140l-110 170"
+        fill="none" stroke="#003e74" stroke-width="20" stroke-linecap="round"/>
+</svg>
