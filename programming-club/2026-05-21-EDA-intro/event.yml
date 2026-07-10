@@ -1,0 +1,13 @@
+name: Programming Club
+title: Exploratory Data Analysis Intro
+date: 2026-05-21
+author: Alex Glyn-Davies
+
+repositories:
+  location: local
+  name: notebook.ipynb
+
+dependencies: 
+  - python
+  - pandas
+  - statistics

@@ -1,0 +1,12 @@
+name: Programming Club
+title: Weights and Biases Demonstration
+date: 2026-06-11
+author: Irene Mendez Guerra
+
+repositories:
+  location: github
+  name: wandb_tutorial
+  url: https://github.com/imendezguerra/wandb_tutorial
+
+dependencies: 
+  - python

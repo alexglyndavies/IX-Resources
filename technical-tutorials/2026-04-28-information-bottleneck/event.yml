@@ -1,0 +1,8 @@
+name: Technical Tutorial
+title: Information Bottleneck
+date: 2026-04-08
+author: Hardik Rajpal
+
+repositories:
+  location: local
+  name: notebook.ipynb

@@ -9,7 +9,6 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
-.cache/mkdocs-jupyter
 
 # Environment variables
 .env
@@ -20,10 +19,10 @@ __pycache__/
 .zed/
 
 # Local event metadata
-**/event.yml
-**/event.yaml
+# **/event.yml
+# **/event.yaml
 
-code/
+code/generate.sh
 posters/
 !docs/assets/posters/
 *Zone.Identifier

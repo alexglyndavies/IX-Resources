@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+  <title id="title">Technical tutorials</title>
+  <rect width="800" height="450" fill="#e8f1f8"/>
+  <rect x="95" y="65" width="610" height="320" rx="24" fill="#fff" stroke="#003e74" stroke-width="12"/>
+  <path d="M175 145h250M175 205h180M175 265h220"
+        fill="none" stroke="#003e74" stroke-width="18" stroke-linecap="round"/>
+  <path d="M505 145l-60 75 60 75M595 145l60 75-60 75"
+        fill="none" stroke="#00a6d6" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M570 125l-40 190"
+        fill="none" stroke="#003e74" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="185" cy="330" r="18" fill="#00a6d6"/>
+  <circle cx="240" cy="330" r="18" fill="#00a6d6"/>
+  <circle cx="295" cy="330" r="18" fill="#00a6d6"/>
+</svg>

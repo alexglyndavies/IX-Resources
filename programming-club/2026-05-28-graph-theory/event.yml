@@ -1,0 +1,11 @@
+name: Programming Club
+title: Introduction to Graph Theory
+date: 2026-05-28
+author: Linden Disney-Hogg
+
+repositories:
+  location: local
+  name: notebook.ipynb
+
+dependencies: 
+  - python
