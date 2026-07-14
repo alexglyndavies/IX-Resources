@@ -2,3 +2,6 @@ name: "Mini-Visit Talk"
 title: "Neural Network Adaptive-Order Methods for High-Fidelity Flow Simulation"
 date: 2026-06-25
 author: "Ratnesh Shukla"
+
+content:
+    file: "slides.pdf"

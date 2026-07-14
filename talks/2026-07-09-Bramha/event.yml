@@ -2,3 +2,6 @@ name: "Mini-Visit Talk"
 title: "Can Machine Learning Help in Reconstructing Hydrometeorological Time-Series from the Past?"
 date: 2026-07-09
 author: "Bramha Vishwakarma"
+
+content:
+    file: "slides.pdf"

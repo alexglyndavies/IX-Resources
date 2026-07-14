@@ -36,6 +36,20 @@
       <span class="homepage-card-link">Browse sessions →</span>
     </div>
   </a>
+  
+  <a class="homepage-card" href="professional-development/">
+    <img
+      src="assets/images/ecri.jpg"
+      alt="Professional Development"
+    >
+    <div class="homepage-card-content">
+      <h2>Professional Development</h2>
+      <p>
+          Past & Upcoming Professional Development Workshops
+      </p>
+      <span class="homepage-card-link">Browse workshops →</span>
+    </div>
+  </a>
 
   <a class="homepage-card" href="hpc/">
     <img
@@ -51,7 +65,7 @@
       <span class="homepage-card-link">View HPC guides →</span>
     </div>
   </a>
-
+  
 </div>
 
 <h2>About this repository</h2>

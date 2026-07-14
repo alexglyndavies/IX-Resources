@@ -8,7 +8,9 @@
     <img src="../../assets/posters/2026-06-18-Sumeet.png" alt="Poster for Artificial Intelligence and the Problem of Unexplainable Discovery by Sumeet Agarwal">
     <img src="../../assets/posters/2026-06-25-Ratnesh.png" alt="Poster for Neural Network Adaptive-Order Methods for High-Fidelity Flow Simulation by Ratnesh Shukla">
     <img src="../../assets/posters/2026-07-07-Claire.png" alt="Poster for Smartphone-based Road Trauma Triage: Inferring Crash Exposure from Low-fidelity Data by Claire Baker">
+    <a href="../../assets/slides/2026-07-09-Bramha.pdf">
     <img src="../../assets/posters/2026-07-09-Bramha.png" alt="Poster for Can Machine Learning Help in Reconstructing Hydrometeorological Time-Series from the Past? by Bramha Vishwakarma">
+    </a>
 </div>
 
 
@@ -22,4 +24,4 @@
 | 2026-06-18 | Artificial Intelligence and the Problem of Unexplainable Discovery | Sumeet Agarwal |
 | 2026-06-25 | Neural Network Adaptive-Order Methods for High-Fidelity Flow Simulation | Ratnesh Shukla |
 | 2026-07-07 | Smartphone-based Road Trauma Triage: Inferring Crash Exposure from Low-fidelity Data | Claire Baker |
-| 2026-07-09 | Can Machine Learning Help in Reconstructing Hydrometeorological Time-Series from the Past? | Bramha Vishwakarma |
+| 2026-07-09 | [Can Machine Learning Help in Reconstructing Hydrometeorological Time-Series from the Past?](../../assets/slides/2026-07-09-Bramha.pdf) | Bramha Vishwakarma |

@@ -17,6 +17,7 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+
 nav:
   - Home: index.md
 
@@ -31,6 +32,9 @@ nav:
       - Technical Tutorials: sessions/technical-tutorials/index.md
       - Book Club: sessions/book-club/index.md
       - List of Talks: sessions/talks/index.md
+
+  - Professional Development:
+      - Overview: professional-development/index.md
 
   - Breaking Topics in AI Conference:
       - Overview: breaking-topics/index.md
@@ -57,3 +61,6 @@ markdown_extensions:
   - toc:
       permalink: true
   - md_in_html
+
+extra_javascript:
+  - javascripts/frame-animation.js
