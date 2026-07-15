@@ -135,7 +135,7 @@ def generate_page(events: list[dict]) -> str:
         [
             "</div>",
             "",
-            "",
+            "<br>",
             "# List of Talks",
             "",
             "| Date | Talk | Speaker |",
@@ -156,7 +156,7 @@ def main() -> None:
         raise FileNotFoundError(f"No event.yml files found in {TALKS_DIR}")
 
     events = [read_event(event_file) for event_file in event_files]
-    events.sort(key=lambda event: (event["date"], event["author"]))
+    events.sort(key=lambda event: (event["date"], event["author"]), reverse=True)
 
     content = generate_page(events)
 
