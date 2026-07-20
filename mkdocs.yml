@@ -67,6 +67,11 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+      smart_dollar: true
 
 extra_javascript:
   - javascripts/frame-animation.js
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
