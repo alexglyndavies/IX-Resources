@@ -1,0 +1,8 @@
+name: Technical Tutorial
+title: Molecular Dynamics with Neural Network Potentials
+date: 2026-07-30
+author: Lucas Medeiros Cornetta
+
+repositories:
+  location: local
+  name: notebook.ipynb

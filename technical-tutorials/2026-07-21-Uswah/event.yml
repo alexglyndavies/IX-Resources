@@ -1,0 +1,8 @@
+name: Technical Tutorial
+title: LSTM Tutorial in PyTorch
+date: 2026-07-21
+author: Uswah Khairrudin
+
+repositories:
+  location: local
+  name: notebook.ipynb
