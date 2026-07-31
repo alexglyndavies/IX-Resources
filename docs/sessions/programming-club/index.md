@@ -10,3 +10,5 @@ Practical programming sessions covering data analysis, machine learning and scie
 | 2026-06-18 | [Weights and Biases Introduction](https://github.com/alexglyndavies/wandb-svm-tutorial) | Alex Glyn-Davies | [GitHub repository](https://github.com/alexglyndavies/wandb-svm-tutorial) |
 | 2026-06-25 | [Introduction to Genetic Algorithms](2026-06-25-introduction-to-genetic-algorithms/notebook.ipynb) | Alex Glyn-Davies | [Notebook](2026-06-25-introduction-to-genetic-algorithms/notebook.ipynb) |
 | 2026-07-09 | [Practical Genetic Algorithms](2026-07-09-practical-genetic-algorithms/notebook.ipynb) | Alex Glyn-Davies | [Notebook](2026-07-09-practical-genetic-algorithms/notebook.ipynb) |
+| 2026-07-23 | [Optimisation Sandbox](2026-07-23-optimisation-sandbox/notebook.ipynb) | Alex Glyn-Davies | [Notebook](2026-07-23-optimisation-sandbox/notebook.ipynb) |
+| 2026-07-30 | [Data Preprocessing](2026-07-30-data-preprocessing/notebook.ipynb) | Alex Glyn-Davies | [Notebook](2026-07-30-data-preprocessing/notebook.ipynb) |

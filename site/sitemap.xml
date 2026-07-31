@@ -2,90 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/breaking-topics/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/hpc/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
+    </url>
+    <url>
+         <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/hpc/fair-use/</loc>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/hpc/imperial-hpc/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/hpc/ix-gpu/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
+    </url>
+    <url>
+         <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/hpc/vscode/</loc>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/learning-resources/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/learning-resources/ai-in-science/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/learning-resources/ix-resources/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/professional-development/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/book-club/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/book-club/bayesopt/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/book-club/mackay/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/programming-club/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/programming-club/2026-05-21-EDA-intro/notebook/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/programming-club/2026-05-28-graph-theory/notebook/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/programming-club/2026-06-25-introduction-to-genetic-algorithms/notebook/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/programming-club/2026-07-09-practical-genetic-algorithms/notebook/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
+    </url>
+    <url>
+         <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/programming-club/2026-07-23-optimisation-sandbox/notebook/</loc>
+         <lastmod>2026-07-31</lastmod>
+    </url>
+    <url>
+         <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/programming-club/2026-07-30-data-preprocessing/notebook/</loc>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/talks/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/talks/index%20copy/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/technical-tutorials/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
     <url>
          <loc>https://YOUR-ORGANISATION.github.io/YOUR-REPOSITORY/sessions/technical-tutorials/2026-04-28-information-bottleneck/notebook/</loc>
-         <lastmod>2026-07-20</lastmod>
+         <lastmod>2026-07-31</lastmod>
     </url>
 </urlset>
