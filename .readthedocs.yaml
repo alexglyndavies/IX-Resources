@@ -7,6 +7,9 @@ build:
     python: "3.12"
 
   jobs:
+    install:
+      - VIRTUAL_ENV=$READTHEDOCS_VIRTUALENV_PATH uv sync --project code --active
+
     pre_build:
       - python code/generate_talks.py
       - python code/generate_programming.py
@@ -14,9 +17,3 @@ build:
 mkdocs:
   configuration: mkdocs.yml
   fail_on_warning: false
-
-python:
-  install:
-    - method: uv
-      command: sync
-      path: code
