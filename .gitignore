@@ -26,3 +26,5 @@ code/generate.sh
 posters/
 !docs/assets/posters/
 *Zone.Identifier
+
+site/
