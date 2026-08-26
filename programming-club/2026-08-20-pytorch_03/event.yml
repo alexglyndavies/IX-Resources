@@ -1,0 +1,13 @@
+name: "Programming Club"
+title: "PyTorch: Transfer Learning & Feature Visualisation"
+date: 2026-08-20
+author: "Alex Glyn-Davies"
+
+repositories:
+  location: github
+  name: "PyTorch: Transfer Learning & Feature Visualisation"
+  url: https://colab.research.google.com/drive/1jf5zPf4KjEsEbKGhjlA4udq0MlvrJm0m
+
+dependencies:
+  - python
+  - pandas
