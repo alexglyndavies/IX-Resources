@@ -3,6 +3,7 @@
 <div class="poster-grid">
     <img src="../../assets/posters/2026-08-25-Bruce.png" alt="Poster for Medical AI: The Quest for Superintelligence by Bruce Bassett">
     <img src="../../assets/posters/2026-08-06-Ofosua.png" alt="Poster for AI-Driven Drug Permeability Prediction by Ofosua Adi-Dako">
+    <img src="../../assets/posters/2026-08-27-Daniela.png" alt="Poster for A Journey in Machine Learning for Molecular Property Prediction by Daniela Andrade Damasceno">
     <img src="../../assets/posters/2026-07-23-Hardik.png" alt="Poster for Why Does the Brain Make Abstractions? by Hardik Rajpal">
     <img src="../../assets/posters/2026-07-16-Shaon.png" alt="Poster for Using AI to Infer Circadian Clock Phase from Snapshot Datasets by Shaon Chakrabarti">
     <a href="../../assets/slides/2026-07-09-Bramha.pdf">
@@ -26,6 +27,7 @@
 |---|---|---|
 | 2026-08-25 | Medical AI: The Quest for Superintelligence | Bruce Bassett |
 | 2026-08-06 | AI-Driven Drug Permeability Prediction | Ofosua Adi-Dako |
+| 2026-08-06 | A Journey in Machine Learning for Molecular Property Prediction | Daniela Andrade Damasceno |
 | 2026-07-23 | Why Does the Brain Make Abstractions? | Hardik Rajpal |
 | 2026-07-16 | Using AI to Infer Circadian Clock Phase from Snapshot Datasets | Shaon Chakrabarti |
 | 2026-07-09 | [Can Machine Learning Help in Reconstructing Hydrometeorological Time-Series from the Past?](../../assets/slides/2026-07-09-Bramha.pdf) | Bramha Vishwakarma |
