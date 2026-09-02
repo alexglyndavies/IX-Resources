@@ -1,0 +1,12 @@
+name: "Programming Club"
+title: "Intro to JAX"
+date: 2026-08-27
+author: "Alex Glyn-Davies"
+
+repositories:
+  location: colab
+  name: "Intro to JAX"
+  url: https://colab.research.google.com/drive/1P5vanl-r9jsiG6eOgsCGUvQYwTjR-jsm?usp=sharing
+
+dependencies:
+  - python

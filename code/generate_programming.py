@@ -37,9 +37,9 @@ def read_event(event_file: Path) -> dict:
             f"{event_file}: repositories must contain location and name"
         )
 
-    if repository["location"] == "github" and "url" not in repository:
+    if repository["location"] in ("github", "colab") and "url" not in repository:
         raise ValueError(
-            f"{event_file}: GitHub repositories must include a URL"
+            f"{event_file}: External repositories must include a URL"
         )
 
     event["date"] = str(event["date"])
@@ -92,6 +92,9 @@ def resource_details(event: dict) -> tuple[str, str]:
     if location == "github":
         return repository["url"], "GitHub repository"
 
+    if location == "colab":
+        return None, None
+
     raise ValueError(
         f'{event["directory"]}: unsupported repository location '
         f'"{repository["location"]}"'
@@ -100,10 +103,18 @@ def resource_details(event: dict) -> tuple[str, str]:
 
 def table_row(event: dict) -> str:
     """Generate one Markdown table row."""
-    url, resource_label = resource_details(event)
+
+    repository = event["repositories"]
+    location = repository["location"].lower()
+
+    if location == "colab":
+        url = repository["url"]
+        linked_resource = f"<a href=\"{repository["url"]}\"> <img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/>"
+    else:
+        url, resource_label = resource_details(event)
+        linked_resource = f"[{resource_label}]({url})"
 
     linked_title = f'[{event["title"]}]({url})'
-    linked_resource = f"[{resource_label}]({url})"
 
     return (
         f'| {event["date"]} '

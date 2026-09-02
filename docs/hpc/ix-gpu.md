@@ -1,9 +1,15 @@
 # IX-GPU Documentation
 
+- [Quickstart](#quickstart)
+- [Fair Use Guide](#fair-use-guide)
+- [VSCode Integration](#connecting-to-hpc-via-vscode)
+
+# Quickstart
+
 This documentation provides instructions on how to use the IX-GPU cluster. It covers how to use the web interface and how to use the terminal to login and submit jobs.
 
 If you are not yet registered for the IX-GPU cluster, please email me at [a.glyndavies@imperial.ac.uk](mailto:a.glyndavies@imperial.ac.uk), give me your imperial details (short imperial name, full imperial email, full name). 
-I will create your account and send back your username andtemporary password which you can use to login for the first time.
+I will create your account and send back your username and temporary password which you can use to login for the first time.
 
 Once logged in you should change your temporary password.
 
@@ -13,23 +19,23 @@ Once logged in you should change your temporary password.
 Follow the link [https://ix-gpu-cloud.ic.ac.uk/](https://ix-gpu-cloud.ic.ac.uk/#/). This brings you to the login-page
 
 
-![alt-text='Login via web interface'](../assets/images/lico.png)
+![alt-text='Login via web interface'](../../assets/images/lico.png)
 
 Use your short imperial name as the username, and the temporary password to login. This will bring you to the homepage -- highlighted here in red is the terminal button -- click this to open a window at the bottom of the page.
 
-![alt-text='Homepage'](../assets/images/lico-homepage.png)
+![alt-text='Homepage'](../../assets/images/lico-homepage.png)
 
 At the bottom of the page you will see on the left panel your home directory, and on the right panel the option to login to the login-node. Here you can run commands on the login-node (see [Option 2: Using the terminal](ix-gpu.md#option-2-using-the-terminal))
 
-![alt-text='LiCO term'](../assets/images/lico-term.png)
+![alt-text='LiCO term'](../../assets/images/lico-term.png)
 
 You can easily transfer and manage files using the left panel. You can start jupyter sessions using the "Cloud Tools" section.
 
-![alt-text='LiCO interactive'](../assets/images/lico-interactive.png)
+![alt-text='LiCO interactive'](../../assets/images/lico-interactive.png)
 
 Selecting the gear icon on the Jupyter session opens a configuration window where you can set the number of GPUs and other options -- include a simple password which you will use when connecting to the Jupyter session.
 
-![alt-text='LiCO jupyter'](../assets/images/lico-jupyter.png)
+![alt-text='LiCO jupyter'](../../assets/images/lico-jupyter.png)
 
 ## Option 2: Using the terminal
 
@@ -170,3 +176,30 @@ To view your own queued jobs, run the following command:
 ```bash
 squeue -u <username>
 ```
+
+# Fair Use Guide
+
+<b>TODO</b>
+
+# Connecting to HPC via VSCode
+
+1. Install the [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) extension in VSCode.
+2. Click the "Open a Remote Window" button in the bottom left corner of VSCode: 
+![alt-text='open a remote window'](../../assets/images/ssh-1.png) <br>
+Select "Connect to Host..." (bottom option)
+![alt-text='connect to host'](../../assets/images/ssh-2.png) <br>
+followed by "Configure SSH Host..."
+![alt-text='configure ssh host'](../../assets/images/ssh-3.png) <br>
+3. Select the config file highlighted below. 
+![alt-text='configure ssh file'](../../assets/images/ssh-4.png) <br>
+This will open the SSH configuration file (`~/.ssh/config`) and add the following entry (replacing `<username>` with your actual username):
+   ```
+   Host ixhpc
+       HostName login-node.ixhpc.ic.ac.uk
+       User <username>
+   ```
+<br>Which will look like this when complete:
+![alt-text='ssh host file complete'](../../assets/images/ssh-host-full.png)
+4. Again, click the "Open a Remote Window" button, "Connect to Host...", and select "ixhpc" to connect to your HPC account, entering in your password when prompted.
+![alt-text='ssh password'](../../assets/images/ssh-password.png)
+5. In the navigation bar, click the "Open Folder" button and select the folder you want to open - now you can use your local VSCode to edit files on the HPC.

@@ -4,7 +4,7 @@ date: 2026-08-06
 author: "Alex Glyn-Davies"
 
 repositories:
-  location: github
+  location: colab
   name: "PyTorch: Defining Models"
   url: https://colab.research.google.com/drive/11PHXuKnmpZg00MjAGWlAuVvWMtr9EMac
 
