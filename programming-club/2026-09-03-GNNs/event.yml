@@ -1,0 +1,12 @@
+name: "Programming Club"
+title: "Graph Neural Networks"
+date: 2026-09-03
+author: "Linden Disney-Hogg"
+
+repositories:
+  location: colab
+  name: "Graph Neural Networks"
+  url: https://colab.research.google.com/drive/1bKT9ok-5mmV_GQNzC9U1Ahl7qqJmgVsp
+
+dependencies:
+  - pytorch
