@@ -12,8 +12,7 @@ build:
       - VIRTUAL_ENV=$READTHEDOCS_VIRTUALENV_PATH uv sync --project code --active
 
     pre_build:
-      - python code/generate_talks.py
-      - python code/generate_programming.py
+      - python code/generate_sessions.py
 
 mkdocs:
   configuration: mkdocs.yml

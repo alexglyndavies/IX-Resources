@@ -22,9 +22,9 @@ __pycache__/
 # **/event.yml
 # **/event.yaml
 
-code/generate.sh
 posters/
 !docs/assets/posters/
 *Zone.Identifier
 
 site/
+.cache/
