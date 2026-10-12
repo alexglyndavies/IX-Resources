@@ -1,6 +1,10 @@
 # Posters
 
 <div class="poster-grid">
+    <img src="../../assets/posters/2026-10-15-Xinwei.png" alt="Poster for Multifidelity Machine Learning Interatomic Potentials for Charged Defect Systems by Xinwei Wang">
+    <img src="../../assets/posters/2026-10-08-Felipe.png" alt="Poster for Bayesian Regression with Autoregressive Noise for Mechanical Properties of Ceramics by Felipe Hawthorne Gomes da Costa">
+    <img src="../../assets/posters/2026-09-24-Joseph.png" alt="Poster for Frontiers of Flexible Photovoltaics by Joseph Asare">
+    <img src="../../assets/posters/2026-09-03-Shady.png" alt="Poster for AI-Enhanced Data Imputation for Self-Generating Digital Twins by Shady Adib">
     <img src="../../assets/posters/2026-08-27-Daniela.png" alt="Poster for A Journey in Machine Learning for Molecular Property Prediction by Daniela Andrade Damasceno">
     <img src="../../assets/posters/2026-08-25-Bruce.png" alt="Poster for Medical AI: The Quest for Superintelligence by Bruce Bassett">
     <img src="../../assets/posters/2026-08-06-Ofosua.png" alt="Poster for AI-Driven Drug Permeability Prediction by Ofosua Adi-Dako">
@@ -25,6 +29,10 @@
 
 | Date | Talk | Speaker |
 |---|---|---|
+| 2026-10-15 | Multifidelity Machine Learning Interatomic Potentials for Charged Defect Systems | Xinwei Wang |
+| 2026-10-08 | Bayesian Regression with Autoregressive Noise for Mechanical Properties of Ceramics | Felipe Hawthorne Gomes da Costa |
+| 2026-09-24 | Frontiers of Flexible Photovoltaics | Joseph Asare |
+| 2026-09-03 | AI-Enhanced Data Imputation for Self-Generating Digital Twins | Shady Adib |
 | 2026-08-27 | A Journey in Machine Learning for Molecular Property Prediction | Daniela Andrade Damasceno |
 | 2026-08-25 | Medical AI: The Quest for Superintelligence | Bruce Bassett |
 | 2026-08-06 | AI-Driven Drug Permeability Prediction | Ofosua Adi-Dako |
