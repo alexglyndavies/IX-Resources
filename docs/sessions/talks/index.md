@@ -4,6 +4,12 @@
 
 <div class="poster-grid" markdown="1">
 
+![Poster for What Should We Learn? Operator Learning and Hybrid Solvers for Scientific Simulation by Gokberk Kabacaoglu](../../assets/posters/2026-12-08-Gokberk.png)
+
+![Poster for Agents for Naturalistic Neuroscience by Satpreet Singh](../../assets/posters/2026-11-26-Satpreet.png)
+
+![Poster for Anthropomorphic Robotic Arm: Design, Manufacturing and Control by Chi-Nan Pai](../../assets/posters/2026-11-05-Pai.png)
+
 ![Poster for Multifidelity Machine Learning Interatomic Potentials for Charged Defect Systems by Xinwei Wang](../../assets/posters/2026-10-15-Xinwei.png)
 
 ![Poster for Bayesian Regression with Autoregressive Noise for Mechanical Properties of Ceramics by Felipe Hawthorne Gomes da Costa](../../assets/posters/2026-10-08-Felipe.png)
@@ -38,6 +44,9 @@
 
 | Date | Title | Author | Resources |
 |---|---|---|---|
+| 2026-12-08 | What Should We Learn? Operator Learning and Hybrid Solvers for Scientific Simulation | Gokberk Kabacaoglu | — |
+| 2026-11-26 | Agents for Naturalistic Neuroscience | Satpreet Singh | — |
+| 2026-11-05 | Anthropomorphic Robotic Arm: Design, Manufacturing and Control | Chi-Nan Pai | — |
 | 2026-10-15 | Multifidelity Machine Learning Interatomic Potentials for Charged Defect Systems | Xinwei Wang | — |
 | 2026-10-08 | Bayesian Regression with Autoregressive Noise for Mechanical Properties of Ceramics | Felipe Hawthorne Gomes da Costa | — |
 | 2026-09-24 | Frontiers of Flexible Photovoltaics | Joseph Asare | — |

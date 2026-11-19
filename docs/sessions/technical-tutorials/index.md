@@ -6,4 +6,4 @@
 |---|---|---|---|
 | 2026-07-30 | [Molecular Dynamics with Neural Network Potentials](2026-07-30-Lucas/notebook.ipynb) | Lucas Medeiros Cornetta | [Notebook](2026-07-30-Lucas/notebook.ipynb) |
 | 2026-07-21 | [LSTM Tutorial in PyTorch](2026-07-21-Uswah/notebook.ipynb) | Uswah Khairrudin | [Notebook](2026-07-21-Uswah/notebook.ipynb) |
-| 2026-04-08 | [Information Bottleneck](2026-04-28-Hardik/notebook.ipynb) | Hardik Rajpal | [Notebook](2026-04-28-Hardik/notebook.ipynb) |
+| 2026-04-28 | [Information Bottleneck](2026-04-28-Hardik/notebook.ipynb) | Hardik Rajpal | [Notebook](2026-04-28-Hardik/notebook.ipynb) |
